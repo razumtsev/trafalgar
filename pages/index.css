@@ -1,6 +1,9 @@
 /* -= normalize.css =- */
 @import url(../vendor/normalize.css);
 
+/* -= font 'Mulish' =- */
+@import url(../vendor/Mulish/mulish.css);
+
 /* -= Root =- */
 @import url(../blocks/root/root.css);
 
