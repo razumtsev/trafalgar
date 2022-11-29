@@ -4,6 +4,23 @@
 /* -= Root =- */
 @import url(../blocks/root/root.css);
 
+/* -= Link =- */
+@import url(../blocks/link/link.css);
+
+/* -= List =- */
+@import url(../blocks/list/list.css);
+
+/* -= Call to action =- */
+@import url(../blocks/call-to-action/call-to-action.css);
+@import url(../blocks/call-to-action/_place/call-to-action_place_header.css);
+
+/* -= Company =- */
+@import url(../blocks/company/company.css);
+@import url(../blocks/company/__logo/company__logo.css);
+@import url(../blocks/company/__logo/_theme/company__logo_theme_white.css);
+@import url(../blocks/company/__logo/_theme/company__logo_theme_blue.css);
+@import url(../blocks/company/__name/company__name.css);
+
 /* -= Page =- */
 @import url(../blocks/page/page.css);
 
@@ -12,6 +29,16 @@
 
 /* -= Header =- */
 @import url(../blocks/header/header.css);
+@import url(../blocks/header/__top-info/header__top-info.css);
+@import url(../blocks/header/__links/header__links.css);
+@import url(../blocks/header/__link/header__link.css);
+@import url(../blocks/header/__link/_is-active/header__link_is-active.css);
+@import url(../blocks/header/__list/header__list.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__subtitle/header__subtitle.css);
 
 /* -= Footer =- */
 @import url(../blocks/footer/footer.css);
+
+/* -=  =- */
+@import url(../blocks);

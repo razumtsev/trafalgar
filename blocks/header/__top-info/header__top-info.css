@@ -1,0 +1,6 @@
+.header__top-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 29px 0 241px;
+}

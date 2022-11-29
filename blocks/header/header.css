@@ -1,3 +1,12 @@
 .header {
-
+  width: 1487px;
+  min-height: 719px;
+  padding-top: 56px;
+  background-image: url(../../images/illustration-virtual-healthcare.jpg);
+  background-size: 693px 598px;
+  background-position: right bottom;
+  background-repeat: no-repeat;
+  position: relative;
+  top: 0;
+  left: -50px;
 }
