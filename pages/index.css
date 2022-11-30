@@ -17,6 +17,15 @@
 @import url(../blocks/call-to-action/call-to-action.css);
 @import url(../blocks/call-to-action/_place/call-to-action_place_header.css);
 
+/* -= section-title =- */
+@import url(../blocks/section-title/section-title.css);
+
+/* -= section-separator =- */
+@import url(../blocks/section-separator/section-separator.css);
+
+/* -= section-text =- */
+@import url(../blocks/section-text/section-text.css);
+
 /* -= Company =- */
 @import url(../blocks/company/company.css);
 @import url(../blocks/company/__logo/company__logo.css);
@@ -42,6 +51,22 @@
 
 /* -= Footer =- */
 @import url(../blocks/footer/footer.css);
+
+/* -= Services =- */
+@import url(../blocks/services/services.css);
+@import url(../blocks/services/__table/services__table.css);
+@import url(../blocks/services/__text/services__text.css);
+
+/* -= Card =- */
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/_name/card_name_consultation.css);
+@import url(../blocks/card/_name/card_name_details-info.css);
+@import url(../blocks/card/_name/card_name_emergency-care.css);
+@import url(../blocks/card/_name/card_name_oneline-pharmacy.css);
+@import url(../blocks/card/_name/card_name_search-doctor.css);
+@import url(../blocks/card/_name/card_name_tracking.css);
+@import url(../blocks/card/__title/card__title.css);
+@import url(../blocks/card/__text/card__text.css);
 
 /* -=  =- */
 @import url(../blocks);
