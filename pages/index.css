@@ -16,15 +16,24 @@
 /* -= Call to action =- */
 @import url(../blocks/call-to-action/call-to-action.css);
 @import url(../blocks/call-to-action/_place/call-to-action_place_header.css);
+@import url(../blocks/call-to-action/_place/call-to-action_place_healthcare-providers.css);
+@import url(../blocks/call-to-action/_place/call-to-action_place_mobile-app.css);
+@import url(../blocks/call-to-action/__arrow/call-to-action__arrow.css);
 
 /* -= section-title =- */
 @import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-title/_place/section-title_place_healthcare-providers.css);
+@import url(../blocks/section-title/_place/section-title_place_mobile-app.css);
 
 /* -= section-separator =- */
 @import url(../blocks/section-separator/section-separator.css);
+@import url(../blocks/section-separator/_place/section-separator_place_healthcare-providers.css);
+@import url(../blocks/section-separator/_place/section-separator_place_mobile-app.css);
 
 /* -= section-text =- */
 @import url(../blocks/section-text/section-text.css);
+@import url(../blocks/section-text/_place/section-text_place_healthcare-providers.css);
+@import url(../blocks/section-text/_place/section-text_place_mobile-app.css);
 
 /* -= Company =- */
 @import url(../blocks/company/company.css);
@@ -48,6 +57,7 @@
 @import url(../blocks/header/__list/header__list.css);
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
+@import url(../blocks/header/__illustration/header__illustration.css);
 
 /* -= Footer =- */
 @import url(../blocks/footer/footer.css);
@@ -67,6 +77,14 @@
 @import url(../blocks/card/_name/card_name_tracking.css);
 @import url(../blocks/card/__title/card__title.css);
 @import url(../blocks/card/__text/card__text.css);
+
+/* -= Healthcare-providers =- */
+@import url(../blocks/healthcare-providers/healthcare-providers.css);
+@import url(../blocks/healthcare-providers/__illustration/healthcare-providers__illustration.css);
+
+/* -= Mobile-app =- */
+@import url(../blocks/mobile-app/mobile-app.css);
+@import url(../blocks/mobile-app/__illustration/mobile-app__illustration.css);
 
 /* -=  =- */
 @import url(../blocks);

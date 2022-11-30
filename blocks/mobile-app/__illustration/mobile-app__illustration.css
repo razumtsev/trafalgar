@@ -1,0 +1,9 @@
+.mobile-app__illustration {
+  width: 665px;
+  height: 434px;
+  background-image: url(../../../images/illustration-mobile-app.jpg);
+  background-size: cover;
+  position: absolute;
+  right: 210px;
+  bottom: 0;
+}

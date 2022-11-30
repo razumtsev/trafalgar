@@ -1,0 +1,9 @@
+.header__illustration {
+  width: 693px;
+  height: 598px;
+  background-image: url(../../../images/illustration-virtual-healthcare.jpg);
+  background-size: cover;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}

@@ -8,6 +8,7 @@
   font-weight: 700;
   font-size: 18px;
   line-height: 60px;
+  box-sizing: border-box;
   border-radius: 55px;
   border: 1.4px solid #458FF6;
   color: #458FF6;

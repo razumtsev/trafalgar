@@ -1,0 +1,9 @@
+.healthcare-providers__illustration {
+  width: 650px;
+  height: 477px;
+  background-image: url(../../../images/illustration-healthcare-providers.jpg);
+  background-size: cover;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
