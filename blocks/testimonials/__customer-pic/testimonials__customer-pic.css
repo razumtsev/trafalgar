@@ -1,0 +1,7 @@
+.testimonials__customer-pic {
+  width: 141px;
+  height: 141px;
+  box-sizing: border-box;
+  border-radius: 50%;
+  border: 3px solid #fff;
+}

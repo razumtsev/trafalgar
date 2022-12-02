@@ -24,16 +24,19 @@
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-title/_place/section-title_place_healthcare-providers.css);
 @import url(../blocks/section-title/_place/section-title_place_mobile-app.css);
+@import url(../blocks/section-title/_place/section-title_place_testimonials.css);
 
 /* -= section-separator =- */
 @import url(../blocks/section-separator/section-separator.css);
 @import url(../blocks/section-separator/_place/section-separator_place_healthcare-providers.css);
 @import url(../blocks/section-separator/_place/section-separator_place_mobile-app.css);
+@import url(../blocks/section-separator/_place/section-separator_place_testimonials.css);
 
 /* -= section-text =- */
 @import url(../blocks/section-text/section-text.css);
 @import url(../blocks/section-text/_place/section-text_place_healthcare-providers.css);
 @import url(../blocks/section-text/_place/section-text_place_mobile-app.css);
+@import url(../blocks/section-text/_place/section-text_place_testimonials.css);
 
 /* -= Company =- */
 @import url(../blocks/company/company.css);
@@ -85,6 +88,25 @@
 /* -= Mobile-app =- */
 @import url(../blocks/mobile-app/mobile-app.css);
 @import url(../blocks/mobile-app/__illustration/mobile-app__illustration.css);
+
+/* -= Testimonials =- */
+@import url(../blocks/testimonials/testimonials.css);
+@import url(../blocks/testimonials/__content/testimonials__content.css);
+@import url(../blocks/testimonials/__control/testimonials__control.css);
+@import url(../blocks/testimonials/__customer-data/testimonials__customer-data.css);
+@import url(../blocks/testimonials/__customer-name/testimonials__customer-name.css);
+@import url(../blocks/testimonials/__customer-pic/testimonials__customer-pic.css);
+@import url(../blocks/testimonials/__customer-status/testimonials__customer-status.css);
+@import url(../blocks/testimonials/__review/testimonials__review.css);
+
+/* -= Slider =- */
+@import url(../blocks/slider/slider.css);
+@import url(../blocks/slider/__arrow/slider__arrow.css);
+@import url(../blocks/slider/__arrow/_direction/slider__arrow_direction_left.css);
+@import url(../blocks/slider/__arrow/_direction/slider__arrow_direction_right.css);
+@import url(../blocks/slider/__arrow/_is-active/slider__arrow_is-active.css);
+@import url(../blocks/slider/__point/slider__point.css);
+@import url(../blocks/slider/__point/_is-active/slider__point_is-active.css);
 
 /* -=  =- */
 @import url(../blocks);

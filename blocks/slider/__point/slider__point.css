@@ -1,0 +1,7 @@
+.slider__point {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #5B9BF3;
+  opacity: .3;
+}

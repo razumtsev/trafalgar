@@ -1,4 +1,5 @@
 .header__list {
   display: flex;
   gap: 40px;
+  margin-top: 9px;
 }
