@@ -1,0 +1,5 @@
+.articles__content {
+  display: flex;
+  gap: 35px;
+  margin-bottom: 72px;
+}

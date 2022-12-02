@@ -1,0 +1,9 @@
+.article__text {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 28px;
+  color: #7D7987;
+  max-width: 266px;
+  margin: 12px 0 0 33px;
+}

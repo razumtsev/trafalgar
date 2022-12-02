@@ -1,0 +1,7 @@
+.article__link-arrow {
+  width: 14.14px;
+  height: 9px;
+  background-image: url(../../../images/articles-arrow.svg);
+  background-size: cover;
+  margin-left: 12px;
+}

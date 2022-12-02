@@ -1,4 +1,9 @@
 .header__link_is-active {
   font-weight: 700;
   opacity: 1;
+  cursor: default;
+}
+
+.header__link_is-active:hover {
+  opacity: 1;
 }

@@ -25,12 +25,14 @@
 @import url(../blocks/section-title/_place/section-title_place_healthcare-providers.css);
 @import url(../blocks/section-title/_place/section-title_place_mobile-app.css);
 @import url(../blocks/section-title/_place/section-title_place_testimonials.css);
+@import url(../blocks/section-title/_place/section-title_place_articles.css);
 
 /* -= section-separator =- */
 @import url(../blocks/section-separator/section-separator.css);
 @import url(../blocks/section-separator/_place/section-separator_place_healthcare-providers.css);
 @import url(../blocks/section-separator/_place/section-separator_place_mobile-app.css);
 @import url(../blocks/section-separator/_place/section-separator_place_testimonials.css);
+@import url(../blocks/section-separator/_place/section-separator_place_articles.css);
 
 /* -= section-text =- */
 @import url(../blocks/section-text/section-text.css);
@@ -107,6 +109,18 @@
 @import url(../blocks/slider/__arrow/_is-active/slider__arrow_is-active.css);
 @import url(../blocks/slider/__point/slider__point.css);
 @import url(../blocks/slider/__point/_is-active/slider__point_is-active.css);
+
+/* -= Articles =- */
+@import url(../blocks/articles/articles.css);
+@import url(../blocks/articles/__content/articles__content.css);
+
+/* -= Article =- */
+@import url(../blocks/article/aritcle.css);
+@import url(../blocks/article/__image/article__image.css);
+@import url(../blocks/article/__title/article__title.css);
+@import url(../blocks/article/__text/article__text.css);
+@import url(../blocks/article/__link/article__link.css);
+@import url(../blocks/article/__link-arrow/article__link-arrow.css);
 
 /* -=  =- */
 @import url(../blocks);
