@@ -1,0 +1,6 @@
+.footer__content {
+  display: flex;
+  justify-content: space-between;
+  min-width: 1170px;
+  margin: 118px auto 109px 190px;
+}

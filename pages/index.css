@@ -46,6 +46,11 @@
 @import url(../blocks/company/__logo/_theme/company__logo_theme_white.css);
 @import url(../blocks/company/__logo/_theme/company__logo_theme_blue.css);
 @import url(../blocks/company/__name/company__name.css);
+@import url(../blocks/company/__name/_theme/company__name_theme_white.css);
+@import url(../blocks/company/__name/_theme/company__name_theme_blue.css);
+
+/* -= Dotted-square =- */
+@import url(../blocks/dotted-square/dotted-square.css);
 
 /* -= Page =- */
 @import url(../blocks/page/page.css);
@@ -122,5 +127,15 @@
 @import url(../blocks/article/__link/article__link.css);
 @import url(../blocks/article/__link-arrow/article__link-arrow.css);
 
-/* -=  =- */
-@import url(../blocks);
+/* -= Footer =- */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__content/footer__content.css);
+@import url(../blocks/footer/__about-us/footer__about-us.css);
+@import url(../blocks/footer/__info/footer__info.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__navigation/footer__navigation.css);
+@import url(../blocks/footer/__region/footer__region.css);
+@import url(../blocks/footer/__help/footer__help.css);
+@import url(../blocks/footer/__title/footer__title.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__link/footer__link.css);
