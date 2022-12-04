@@ -49,9 +49,6 @@
 @import url(../blocks/company/__name/_theme/company__name_theme_white.css);
 @import url(../blocks/company/__name/_theme/company__name_theme_blue.css);
 
-/* -= Dotted-square =- */
-@import url(../blocks/dotted-square/dotted-square.css);
-
 /* -= Strange-figure =- */
 @import url(../blocks/strange-figure/strange-figure.css);
 @import url(../blocks/strange-figure/_place/strange-figure_place_services.css);
