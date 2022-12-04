@@ -1,6 +1,10 @@
 .footer {
   display: flex;
-  margin-top: 201px;
+  padding-top: 201px;
   width: 100%;
-  background: linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+  background:
+    url(../../images/dotted-square-white.png) no-repeat,
+    linear-gradient(183.41deg, #67C3F3 -8.57%, #5A98F2 82.96%) no-repeat,
+    url(../../images/dotted-square-blue.png) no-repeat;
+  background-position: 0 538px, 0px 202px, 1377px 130px;
 }

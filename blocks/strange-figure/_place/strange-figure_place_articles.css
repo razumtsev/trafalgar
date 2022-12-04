@@ -1,0 +1,12 @@
+.strange-figure_place_articles {
+  width: 640px;
+  height: 516px;
+  background-image: url(../../../images/strange-shape.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  transform: rotate(180deg);
+  z-index: -1;
+  position: absolute;
+  top: 100px;
+  right: -162px;
+}

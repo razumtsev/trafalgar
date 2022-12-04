@@ -4,7 +4,12 @@
   align-items: center;
   width: 1120px;
   min-height: 425px;
-  background: linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+  background:
+    url(../../../images/dotted-square-white.png) no-repeat,
+    linear-gradient(208.18deg, #67C3F3 9.05%, #5A98F2 76.74%);
+  background-position: 1025px 12px, 0 0;
   border-radius: 24px;
   margin: 13px 0 0 52px;
+  position: relative;
+  overflow: hidden;
 }

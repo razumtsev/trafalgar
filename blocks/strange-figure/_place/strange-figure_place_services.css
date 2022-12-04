@@ -1,0 +1,10 @@
+.strange-figure_place_services {
+  width: 937.95px;
+  height: 671.35px;
+  background-image: url(../../../images/strange-shape.svg);
+  background-repeat: no-repeat;
+  z-index: -1;
+  position: absolute;
+  top: 213px;
+  left: 0;
+}

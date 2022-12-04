@@ -52,6 +52,11 @@
 /* -= Dotted-square =- */
 @import url(../blocks/dotted-square/dotted-square.css);
 
+/* -= Strange-figure =- */
+@import url(../blocks/strange-figure/strange-figure.css);
+@import url(../blocks/strange-figure/_place/strange-figure_place_services.css);
+@import url(../blocks/strange-figure/_place/strange-figure_place_articles.css);
+
 /* -= Page =- */
 @import url(../blocks/page/page.css);
 

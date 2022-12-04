@@ -3,4 +3,9 @@
   flex-direction: column;
   align-items: center;
   margin-top: 221px;
+  width: 100%;
+  z-index: 1;
+  background: url(../../images/dotted-square-blue.png) 191px 120px no-repeat;
+  position: relative;
+  overflow: hidden;
 }
